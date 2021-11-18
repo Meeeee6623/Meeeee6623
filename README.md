@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Benjamin Chauhan</h1>
-<h3 align="center">I do things</h3>
+<h3 align="center">I do things!</h3>
+
+- 🔭 I’m currently working on [ResBench (NVIDIA Deep Learning Examples benchmark)](https://github.com/Meeeee6623/DeepLearningExamples/)
+
+- 🌱 I’m currently learning **How to design a Simple Machine Language Compiler with C++**
+
+- 📫 How to reach me **c.benjaminsemail1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
