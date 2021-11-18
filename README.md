@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **How to design a Simple Machine Language Compiler with C++**
 
-- 📫 How to reach me **c.benjaminsemail1@gmail.com**
+- 📫 Reach me at **c.benjaminsemail1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
