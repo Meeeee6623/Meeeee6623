@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benjamin Chauhan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I do things!</h3>
 
 - 🔭 I’m currently working on [ResBench (NVIDIA Deep Learning Examples benchmark)](https://github.com/Meeeee6623/DeepLearningExamples/)
