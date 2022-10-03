@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I do things!</h3>
+<h1 align="center">Welcome!</h1>
+<h3 align="center">I am a student at Duke Univeristy, currently studying Math and Computer Science!</h3>
 
-- 🔭 I’m currently working on [ResBench (NVIDIA Deep Learning Examples benchmark)](https://github.com/Meeeee6623/DeepLearningExamples/)
+- 🖥 I’m currently working on the [GSSM Self-Driving Golf Cart](https://github.com/Meeeee6623/DeepLearningExamples/)
 
 - 🌱 I’m currently learning **How to design a Simple Machine Language Compiler with C++**
 
-- 📫 Reach me at **c.benjaminsemail1@gmail.com**
+- 📫 Reach me at **benjamin.chauhan@duke.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
