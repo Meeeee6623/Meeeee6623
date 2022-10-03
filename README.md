@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">I am a student at Duke Univeristy, currently studying Math and Computer Science!</h3>
 
-- 🖥 I’m currently working on the [GSSM Self-Driving Golf Cart](https://github.com/Meeeee6623/DeepLearningExamples/)
+- 🖥 I’m currently working on the [GSSM Self-Driving Golf Cart](https://github.com/AutoGolfCart)
 
 - 🌱 I’m currently learning **How to design a Simple Machine Language Compiler with C++**
 
