@@ -1,9 +1,7 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">I am a student at Duke Univeristy, currently studying Statistics and Computer Science!</h3>
 
-- 🖥 I’m currently working on [DeAP Learning Lab](https://deaplearning.com)
-
-- 🌱 I’m currently learning **How to design a Simple Machine Language Compiler with C++**
+- 🖥 I’m currently working on [DeAP Learning Labs](https://deaplearning.com)
 
 - 📫 Reach me at **benjamin.chauhan@duke.edu**
 
