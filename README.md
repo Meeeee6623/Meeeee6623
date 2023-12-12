@@ -6,7 +6,8 @@
 - 📫 Reach me at **benjamin.chauhan@duke.edu**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p <a href="https://www.linkedin.com/in/bchauhan42/">Linkedin</a>
+ align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
